@@ -1,0 +1,3 @@
+# https://github.com/peng-zhihui/ElectronBot/discussions/206
+*.md linguist-detectable=true
+*.md linguist-documentation=false
